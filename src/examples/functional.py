@@ -1,4 +1,4 @@
-from basic import Linear, Absolute
+from src.basic import Linear, Absolute
 
 lin = Linear(2, 3)
 absolute = Absolute(lin)

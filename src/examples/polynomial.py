@@ -1,4 +1,4 @@
-from basic import Polynomial
+from src.basic import Polynomial
 
 poly = Polynomial([(1, 2), (3, 1), (2, 0)], 3)
 

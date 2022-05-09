@@ -1,2 +1,5 @@
 /.idea/
 /venv/
+/pyproject.toml
+/setup.cfg
+/dist/

@@ -1,4 +1,4 @@
-from basic import Linear
+from src.basic import Linear
 
 lin1 = Linear(2, 0)
 lin2 = Linear(3, 2)

@@ -1,6 +1,6 @@
 import math
 
-from graph import Graph
+from src.graph import Graph
 
 
 class Constant(Graph):

@@ -1,6 +1,6 @@
 import unittest
 
-from graph import Graph, Period
+from src.graph import Graph, Period
 
 
 class GraphTestCase(unittest.TestCase):
